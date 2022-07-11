@@ -11,11 +11,11 @@
  
  - 📖 Senior student majoring in Software, Kwangwoon University
 
- - 💻 Backend Developer (Spring, Django)
+ - 💻 Backend Developer
 
 ## 🔍Interest
 <ul>
-  <li>Django, Spring Web Framework</li>
+  <li>Spring Web Framework</li>
   <li>Web Server, Network</li>
   <li>Cloud Architecture</li>
 </ul>
@@ -33,7 +33,7 @@
 
 ## 🛠️Skills
 <p align="left">
-<img src="https://img.shields.io/badge/DJANGO-black?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AmazonAws-orange?style=flat-square&logo=Amazon-Aws&logoColor=white"/></a>
 </p>
