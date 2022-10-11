@@ -8,18 +8,24 @@
 <a href="https://pyh0502.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=blogger&logoColor=white" ></a>
  <a href="https://www.instagram.com/0.__.hun/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/></a>
  </p>
-
- - 💻 Backend Developer
-
+ 
+ 
+ ### 💻 Backend Developer
+ 
+</br>
 
 ## Work experience 🏃
 - (16.03 - 22.08) 광운대학교 소프트웨어학부 졸업
-- (20.12 - 21.04 ) 🏭 산학연계 SW 프로젝트 KNOWHOW팀 '인공지능 원가(손익/예산) 분석 및 예측 플랫폼' 개발
-- (21.02) 한국통신학회 동계종합학술발표회 5G/AI기반 ICT융합서비스 아이디어 경진대회 "Salice" /res-우수상
-- (21.08 - 21.10 ) 🍀 공개SW 개발자 대회 "용기 낸 사람들" 모바일 애플리케이션 개발 / res-우수작 등록
-- (21.12 - 22.03 ) 🎡 놀이의발견 플랫폼실 백엔드 파트 - CP 백엔드 API 개발
-- (22.04 - 22.08 )  YAPP 20th - BACKEND
 - (22.04 - 22.11 )  SW Maestro 13th
+- (22.04 - 22.08 )  YAPP 20th - BACKEND
+- (21.12 - 22.03 ) 🎡 놀이의발견 플랫폼실 백엔드 파트 - CP 백엔드 API 개발
+- (21.08 - 21.10 ) 🍀 공개SW 개발자 대회 "용기 낸 사람들" 모바일 애플리케이션 개발
+- (20.12 - 21.04 ) 🏭 산학연계 SW 프로젝트 KNOWHOW팀 '인공지능 원가(손익/예산) 분석 및 예측 플랫폼' 개발
+
+
+
+
+
 
 ## 🛠️Skills
 <p align="left">
@@ -33,8 +39,6 @@
 <img src="https://img.shields.io/badge/language-navy?style=flat-square&logo=C&logoColor=white"/></a>
 <components&logoColor=white"/></a>
 </p>
-</br>
-</br>
 
 ![Park-Young-Hun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Park-Young-Hun&show_icons=true&theme=compact)
 
